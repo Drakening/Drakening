@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-Yo, I'm Thando Mkhonza, a passionate self-taught frontend web developer from South Africa. I would introduce myself in a few words words. Passionate coder and Enthusiastic runner.
+Yo, I'm Thando Mkhonza, a passionate self-taught frontend developer from South Africa. I would introduce myself in a few words words. Passionate coder and Enthusiastic runner.
 
 * 🌍  I'm based in Pretoria, South Africa
 * ✉️  You can contact me at [Thandomkhonza63@gmail.com](mailto:Thandomkhonza63@gmail.com)
