@@ -7,7 +7,7 @@ Front-end Developer
 Yo, I'm Thando Mkhonza, a passionate self-taught frontend web developer from South Africa. I would introduce myself in a few words words. Passionate coder and Enthusiastic runner.
 
 * 🌍  I'm based in Pretoria, South Africa
-* ✉️  You can contact me at [Thandomkhonza65@gmail.com](mailto:Thandomkhonza65@gmail.com)
+* ✉️  You can contact me at [Thandomkhonza63@gmail.com](mailto:Thandomkhonza63@gmail.com)
 * 🧠  I'm learning NextJs
 * 🤝  I'm open to collaborating on projects
 * ⚡  I can lucid dream (...sometimes)
