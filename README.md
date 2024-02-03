@@ -4,9 +4,8 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 A Front-end Developer
 -------------------
 
-I am a passionate self-taught frontend developer from South Africa. I would introduce myself in a few words words. Passionate coder and Enthusiastic runner.
+I am a passionate self-taught frontend developer from Pretoria, South Africa. I would introduce myself in a few words words. Passionate coder and Enthusiastic runner.
 
-* 🌍  I'm based in Pretoria, South Africa
 * ✉️  You can contact me at [Thandomkhonza63@gmail.com](mailto:Thandomkhonza63@gmail.com)
 
 ### My go to tech-stack:
