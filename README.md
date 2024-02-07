@@ -1,7 +1,5 @@
 Hi there 👋 I'm Thando.
 ======================================================================================================================================
-
-I am a passionate self-taught front-end developer from Pretoria, South Africa.
 * ✉️  You can contact me at [Thandomkhonza63@gmail.com](mailto:Thandomkhonza63@gmail.com)
 
 <br>
