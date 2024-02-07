@@ -1,11 +1,6 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Thando.
 ======================================================================================================================================
 
-A Front-end Developer
--------------------
-
-<br>
-
 I am a passionate self-taught front-end developer from Pretoria, South Africa.
 * ✉️  You can contact me at [Thandomkhonza63@gmail.com](mailto:Thandomkhonza63@gmail.com)
 
@@ -16,10 +11,12 @@ const developer = {
   name: "Thando Jayson Mkhonza",
   skills: {
     languages: ["JavaScript"],
+
     frontend: {
       js: ["React", "Next"],
       styling: ["CSS"]
     },
+
     backend: {
       js: ["NodeJS"],
       misc: ["Firebase"]
