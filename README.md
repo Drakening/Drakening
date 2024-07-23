@@ -20,7 +20,7 @@ const developer = {
       misc: ["Firebase"]
     }
   },
-  hobbies: ["Watching bad movies", "Exploring new technologies", "Running"]
+  hobbies: ["Watching bad movies", "Creating animation components", "Running"]
 }
 ```
 ### Socials
