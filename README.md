@@ -8,7 +8,7 @@ Hi there 👋 I'm Thando.
 const developer = {
   name: "Thando Jayson Mkhonza",
   skills: {
-    languages: ["JavaScript"],
+    languages: ["JavaScript", "TypeScript"],
 
     frontend: {
       js: ["React", "Next"],
@@ -22,6 +22,7 @@ const developer = {
   },
   hobbies: ["Watching bad movies", "Creating animation components", "Running"]
 }
+
 ```
 ### Socials
 
