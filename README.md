@@ -12,7 +12,7 @@ const developer = {
 
     frontend: {
       js: ["React", "Next"],
-      styling: ["CSS", "Framer-motion", "Gsap"]
+      styling: ["CSS", "Framer-motion", "Tailwind"]
     },
 
     backend: {
