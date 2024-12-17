@@ -1,7 +1,6 @@
 Hi there 👋 I'm Thando.
 ======================================================================================================================================
 * Take a look at my [👉 PORTFOLIO](https://thandomkhonza.vercel.app/)
-Take a look at my <a href="https://thandomkhonza.vercel.app/" target="_blank" rel="noopener noreferrer">👉 PORTFOLIO</a>
 * ✉️  You can contact me at [Thandomkhonza63@gmail.com](mailto:Thandomkhonza63@gmail.com)
 
 <br>
